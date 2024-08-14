@@ -1,6 +1,6 @@
 ### Hello, World! 👋
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=yoon-park)](https://github.com/eungyeole/velog-readme-stats)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=yoon-park)](https://velog.io/@yoon-park/posts)
 
 
 
