@@ -1,7 +1,7 @@
 ### Hello, World! 👋
 
 
-[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=unreality&theme=default)](https://unreality.tistory.com/)
+[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=unreality&theme=vue)](https://unreality.tistory.com/)
 
 
 
