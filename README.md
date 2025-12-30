@@ -1,12 +1,12 @@
 ### Hello, World! 👋
 
 
-[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=unreality&theme=vue)](https://unreality.tistory.com/)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=yoon-park)](https://velog.io/@yoon-park/posts)
 
 
 
 <!--
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=yoon-park)](https://velog.io/@yoon-park/posts)
+[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=unreality&theme=vue)](https://unreality.tistory.com/)
 
 **yoon-park/yoon-park** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
